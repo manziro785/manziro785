@@ -1,1 +1,1 @@
-![Banner](./assets/Make your README (1).png)
+![Banner](./assets/banner_img.png)
